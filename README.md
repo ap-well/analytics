@@ -20,7 +20,7 @@ Curated data analytics portfolio showcasing skills in data analysis, data scienc
 ## Skills
 
 *   **Programming Languages:** Python, R, JavaScript.
-*   **Frameworks & Libraries:** React, Node, numpy, pandas, dplyr, ggplot, Django, Spring Boot, etc.
+*   **Frameworks & Libraries:** React, Node, numpy, pandas, dplyr, ggplot, Django
 *   **Databases:** SQL, PostgreSQL, MongoDB, etc.
 *   **Tools & Platforms:** Git, Docker.
 
