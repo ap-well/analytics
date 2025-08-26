@@ -8,7 +8,7 @@ Curated data analytics portfolio showcasing skills in data analysis, data scienc
 *   **Description:** An in-depth review of how the Atlanta Falcons positioned themselves (and capitalized) their scoring oppurtunities.
 *   **Technologies:** R, dplyr, ggplot2, gt
 *   **Features:** Provided key insights to Atlanta Falcons offensive performances and redzone inefficiencies in comparison to other NFL teams
-*   **Link:** [Link to live demo or project repo]
+*   **Link:** [2024-2025 Atlanta Falcons: Scoring Oppurtunity Analysis](https://github.com/ap-well/analytics/blob/main/NFL_analytics/falcons_analysis.r)
 
 ### Project 2: Salary Analysis: Past Champions, Current Salary Cap, and the Atlanta Hawks
 
@@ -30,6 +30,6 @@ A concise list of your technical skills, categorized for clarity.
 
 Provide ways for recruiters or potential collaborators to reach you.
 
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Email:** [powell.aaron.2019@gmail.com]
-*   **Personal Website/Portfolio:** [(https://apwellanalytics.substack.com/)]
+*   **LinkedIn:** [My LinkedIn](www.linkedin.com/in/aaron-powell-3a4273110)
+*   **Email:** powell.aaron.2019@gmail.com
+*   **Personal Website/Portfolio:** [apwell_analytics](https://apwellanalytics.substack.com/)
