@@ -19,16 +19,12 @@ Curated data analytics portfolio showcasing skills in data analysis, data scienc
 
 ## Skills
 
-A concise list of your technical skills, categorized for clarity.
-
 *   **Programming Languages:** Python, R, JavaScript.
 *   **Frameworks & Libraries:** React, Node, numpy, pandas, dplyr, ggplot, Django, Spring Boot, etc.
 *   **Databases:** SQL, PostgreSQL, MongoDB, etc.
 *   **Tools & Platforms:** Git, Docker.
 
 ## Contact
-
-Provide ways for recruiters or potential collaborators to reach you.
 
 *   **LinkedIn:** [My LinkedIn](www.linkedin.com/in/aaron-powell-3a4273110)
 *   **Email:** powell.aaron.2019@gmail.com
