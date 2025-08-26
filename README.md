@@ -15,7 +15,7 @@ Curated data analytics portfolio showcasing skills in data analysis, data scienc
 *   **Description:** A look into how NBA teams have operted in years past with salary caps with insight on the current salary analysis for all NBA teams going into the 2025-26 season with focus on the Atlanta Hawks
 *   **Technologies:** R, dplyr, ggplot, gt, hclust, rvest, factoextra
 *   **Features:** Highlighted trends in cap spending and NBA champions, potential reasoning for 2023 CBA, and in-depth player clustering using unsupervised machine learning models
-*   **Link:** [Link to live demo or project repo]
+*   **Link:** [Salary Analysis: Past Champions, Current Salary Cap, and the Atlanta Hawks](https://github.com/ap-well/analytics/tree/main/NBA_analytics)
 
 ## Skills
 
